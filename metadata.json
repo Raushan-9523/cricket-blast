@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Blast",
+  "description": "India's premier cricket news portal – Har Ball Ki Baat! Live scores, match analysis, IPL updates, breaking news, schedules and cricket videos in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
